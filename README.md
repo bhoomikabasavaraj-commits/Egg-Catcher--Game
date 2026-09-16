@@ -20,7 +20,4 @@ How to Run:
 1. Install Python.
 2. Download the project.
 3. Run egg_catcher.py.
-
-Project Report:
-The complete project report is available in Project-Report.pdf.# Egg-Catcher Game
-"A simple Egg Catcher arcade game developed using Python Tkinter."
+Project Report: The complete project report is available in Egg-Catcher-Project-Report.pdf.
